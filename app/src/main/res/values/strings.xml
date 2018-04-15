@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Books</string>
+    <string name="err_data_msg">Error loading books from Google Books API</string>
+    <string name="error_data_message">Error in retrieving dataa</string>
+    <string name="search">Search</string>
+    <string name="advanced_search">Advanced search</string>
+    <string name="no_search_data">Please insert data into required fields!</string>
+
+</resources>
